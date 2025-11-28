@@ -1,4 +1,6 @@
 **Crossfi**
+
+
 Primero escaneamos los puertos abiertos.
 ```bash
 nmap -sS --open -p- --min-rate 5000 -v -Pn -n machine
